@@ -1,4 +1,4 @@
-#Odoo 15 Community & Enterprise Edition Comparison
+# Odoo 15 Community & Enterprise Edition Comparison
 
 Odoo is a comprehensive suite of business applications that includes CRM, e-commerce, billing, accounting, manufacturing, warehouse, project management, and inventory management. It comes in two versions: the Community edition, which is open-source, and the Enterprise edition, which is a licensed version. Here is an in-depth analysis of the two versions:
 
@@ -21,7 +21,7 @@ Odoo is a comprehensive suite of business applications that includes CRM, e-comm
 In conclusion, the choice between Odoo Community and Enterprise depends on the specific needs and budget of your business. The Community edition is a good choice for small businesses or startups that need a basic set of features and are comfortable with self-support. The Enterprise edition, on the other hand, is suitable for businesses that require a full-featured business suite with dedicated support.
 
 
-##Simple comparison
+## Simple comparison
 
 Sure, here is a comparison table highlighting the differences between Odoo Community and Enterprise editions:
 
@@ -38,7 +38,7 @@ Sure, here is a comparison table highlighting the differences between Odoo Commu
 
 Please note that the above comparison is a general overview and the actual differences may vary based on the specific version of Odoo and the specific needs of your business.
 
-##Detailed Comparison
+## Detailed Comparison
 
 | Feature/Aspect | Odoo 15 Community Edition | Odoo 15 Enterprise Edition |
 |----------------|---------------------------|----------------------------|
