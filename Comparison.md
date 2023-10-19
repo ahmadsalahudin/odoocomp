@@ -61,3 +61,27 @@ Please note that the above comparison is a general overview and the actual diffe
 
 This table provides a comprehensive comparison of the features available in both the Community and Enterprise editions of Odoo 15. The choice between the two would depend on the specific needs and budget of your business.
 
+## More Detailed
+Sure, here's a more detailed breakdown of each section:
+
+| Section/Feature | Odoo 15 Community Edition | Odoo 15 Enterprise Edition |
+|-----------------|---------------------------|----------------------------|
+| **User Interface** | Basic, user-friendly interface. | Refined, sleek interface with mobile support. |
+| **Accounting** | - Invoicing<br>- Bank synchronization<br>- Expense management | - Invoicing<br>- Bank synchronization<br>- Expense management<br>- Multi-currency<br>- Multi-company<br>- Analytic accounting<br>- Budget management<br>- Assets & revenue recognition<br>- Automatic bank feeds |
+| **Sales** | - Quotations<br>- Sales orders<br>- Customer portal | - Quotations<br>- Sales orders<br>- Customer portal<br>- eSignature<br>- Online payments<br>- Upselling<br>- Coupon & promotions program |
+| **Inventory** | - Delivery orders<br>- Inventory adjustments | - Delivery orders<br>- Inventory adjustments<br>- Barcode support<br>- Shipping integration<br>- Batch transfers<br>- Advanced routing |
+| **Manufacturing** | - Manufacturing orders<br>- Work orders | - Manufacturing orders<br>- Work orders<br>- Maintenance<br>- Quality<br>- PLM<br>- Worksheets<br>- Quality checks |
+| **Website Builder** | - Basic website builder | - Basic website builder<br>- Form builder<br>- Call-to-action blocks<br>- Versioning<br>- A/B testing<br>- eCommerce |
+| **E-commerce** | - Not available | - Full-featured e-commerce platform<br>- Multiple payment gateways<br>- Shipping providers<br>- Customer portal<br>- Product configurator |
+| **Human Resources** | - Employee directory<br>- Leaves management | - Employee directory<br>- Leaves management<br>- Recruitment<br>- Appraisal<br>- Fleet management<br>- Expenses<br>- Timesheets |
+| **Project Management** | - Tasks<br>- Deadlines | - Tasks<br>- Deadlines<br>- Gantt chart<br>- Forecasts<br>- Profitability analysis<br>- Timesheets |
+| **Point of Sale (POS)** | - Basic POS features | - Basic POS features<br>- Restaurant management<br>- IoT box support<br>- Loyalty cards |
+| **Customer Relationship Management (CRM)** | - Leads<br>- Opportunities<br>- Email marketing | - Leads<br>- Opportunities<br>- Email marketing<br>- VoIP integration<br>- Live chat<br>- Visitor tracking |
+| **Technical Support** | - No official support | - Official functional and technical support |
+| **Customization** | - Open-source nature allows for flexibility, but requires technical knowledge | - Built-in customization options for non-technical users |
+| **Integration** | - Limited integrations | - Supports more integrations |
+| **Updates and Upgrades** | - Less frequent updates | - Regular updates and upgrades |
+| **Pricing** | - Free | - License fee based on number of users and modules |
+
+This table provides a more detailed comparison of the features available in both the Community and Enterprise editions of Odoo 15. The choice between the two would depend on the specific needs and budget of your business.
+
